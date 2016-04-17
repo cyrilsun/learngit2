@@ -7,3 +7,4 @@ creating a new branch is quick.
 creating a new branch is quick and simple.
 branch dev
 add branch and simple.
+dev alter readme.txt.
