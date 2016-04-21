@@ -1,3 +1,4 @@
 ﻿file 1
 
 ADD one line.
+add another line.
